@@ -96,7 +96,7 @@ The backend application, built with Spring Boot, serves as the core of the log m
 ![Image 2](https://firebasestorage.googleapis.com/v0/b/portfolioimages-fdfbd.appspot.com/o/LogApplication%2FScreenshot%202023-11-19%20201137.png?alt=media&token=d02abf99-10e9-40cb-a4ec-5347ebb5aab5)
 
 ## Image 3
-![Image 3](https://console.firebase.google.com/u/0/project/portfolioimages-fdfbd/storage/portfolioimages-fdfbd.appspot.com/files/~2FLogApplication)
+![Image 3](https://firebasestorage.googleapis.com/v0/b/portfolioimages-fdfbd.appspot.com/o/LogApplication%2FScreenshot%202023-11-19%20201212.png?alt=media&token=69699623-8d8e-4566-9f2a-0bb58d60edb5)
 
 ## Image 4
 ![Image 4](https://firebasestorage.googleapis.com/v0/b/portfolioimages-fdfbd.appspot.com/o/LogApplication%2FScreenshot%202023-11-19%20201222.png?alt=media&token=076e2762-4eae-4025-bcfe-e4c6139ae706)
@@ -105,7 +105,7 @@ The backend application, built with Spring Boot, serves as the core of the log m
 ![Image 5](https://firebasestorage.googleapis.com/v0/b/portfolioimages-fdfbd.appspot.com/o/LogApplication%2FScreenshot%202023-11-19%20201232.png?alt=media&token=198aaf46-bf6e-463e-8fb9-7de6fa3380c9)
 
 ## Image 6
-![Image 6](https://console.firebase.google.com/u/0/project/portfolioimages-fdfbd/storage/portfolioimages-fdfbd.appspot.com/files/~2FLogApplication)
+![Image 6](https://firebasestorage.googleapis.com/v0/b/portfolioimages-fdfbd.appspot.com/o/LogApplication%2FScreenshot%202023-11-19%20201051.png?alt=media&token=985cbe97-f3eb-4348-89c7-90175a1af688)
 
 
 
